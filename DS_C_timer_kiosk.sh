@@ -8,4 +8,4 @@ done
 git pull
 "C:\ds_merahputih\DesktopService.exe" $1 &
 
-start chrome http://192.168.1.110:4300
+start chrome http://192.168.5.6:2222/kiosk
